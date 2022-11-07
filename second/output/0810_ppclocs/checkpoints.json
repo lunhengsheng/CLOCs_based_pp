@@ -1,0 +1,18 @@
+{
+  "latest_ckpt": {
+    "fusion_layer": "fusion_layer-37120.tckpt",
+    "adam_optimizer": "adam_optimizer-37120.tckpt"
+  },
+  "all_ckpts": {
+    "fusion_layer": [
+      "fusion_layer-18183.tckpt",
+      "fusion_layer-36488.tckpt",
+      "fusion_layer-37120.tckpt"
+    ],
+    "adam_optimizer": [
+      "adam_optimizer-18183.tckpt",
+      "adam_optimizer-36488.tckpt",
+      "adam_optimizer-37120.tckpt"
+    ]
+  }
+}
